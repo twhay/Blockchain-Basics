@@ -1,0 +1,15 @@
+# Conclusion
+
+We have just scratched the surface of the many topics in the ever evolving ecosystem of decentralized technologies. Congratulations! We hope you enjoyed reading Blockchain Basics. The blockchain industry is evolving rapidly, and we couldn’t be more excited about it. As someone who’s shown an interest in learning about blockchain, we wanted to direct you to additional resources. The first is a comprehensive introduction to blockchain that makes heavy use of animation to explain concepts visually; it’s perfect for anyone with no technical experience. The second is an in-depth course for developers who want to start coding on the blockchain.
+
+* [Blockchain: Foundations and Use Cases](https://consensys.net/academy/foundations/?utm_source=leanpub&utm_medium=email)
+  * **About this course**:This is the definitive introduction to blockchain for non-developers and developers alike. This is a 5-week, self-paced, online course featuring rich media and multi-modal content such as animation, video, reading materials, interactive quizzes, assignments, and a peer-reviewed final project where you will build your own blockchain case study. Designed with the busy professional in mind, this course can be completed with just 2-3 hours of time per week. **The best part about this class is that you can audit it for free!** For $99USD, you can take the full course and upon passing, earn a certification which can be put on your LinkedIn profile, which research has shown can increase profile engagement by up to 6x!
+  * **Who is this class for**:This course requires no prior technical knowledge and is ideal for anyone who wants to understand blockchain: whether you're a businessperson who wants to learn about impacts to your industry, or a technologist who'd like to take an introductory step into the world of blockchain.
+* [ConsenSys Academy Developer Program](https://consensys.net/academy/2018developer/?utm_source=leanpub&utm_medium=email)
+  * **About this course:** The Developer Program is an 11-week program that equips students with the knowledge, skills, and mentorship essential to becoming industry-leading Ethereum developers. In this course, you’ll be coding on the blockchain, and taking part in a robust online community of students, mentors, and experts
+  * **Who is this class for**: The ideal learner has at least 1 year of programming experience, will be an experienced and passionate Object-Oriented Programmer \(preferably Python\), and is familiar with general web development, JavaScript, HTML, and Git.
+
+We can also direct you to more resources and materials at our [website](https://consensys.net/academy/), where you can deepen your knowledge and really dig into concepts in more granularity and mathematical detail.
+
+Please review the bibliography for sources and links for further reading. If there are any suggestions for additional content we can add to this book, please let us know. Welcome to this exciting space, we are happy to have you along for the journey!
+
